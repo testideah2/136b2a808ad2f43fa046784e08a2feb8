@@ -3,12 +3,12 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "page.rastarasha.app"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
 <name>ТЕСТ. rastarasha</name>
 
 <description>
-    rastarasha.app
+    rastarasha seedshop app
 </description>
 
 <author>Tadapp</author>
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#000000" />
+<preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
 <platform name="android">
